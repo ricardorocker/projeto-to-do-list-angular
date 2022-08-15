@@ -1,4 +1,4 @@
-# Requerimento
+# Intrucoes dadas em curso para fazer o projeto
 
 **Você deverá criar um to-do list de acordo com o layout no figma.**<br>
 Layout: https://www.figma.com/file/ZX3XOso5AovkNOQVqoEQum/My-Todo-List?node-id=0%3A1
